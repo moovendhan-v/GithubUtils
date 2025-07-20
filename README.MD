@@ -1,6 +1,6 @@
 # GitHub Branch Protection Script
 
-# GitHub Branch Protection Script
+## Please read the script before running
 
 This Bash script automates the setup of enhanced branch protection and security features for a specified GitHub repository branch. It configures repository visibility, creates necessary security files via pull requests, applies strict branch protection rules, and enables GitHub security features like secret scanning, CodeQL, and dependency review.
 
