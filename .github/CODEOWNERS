@@ -1,0 +1,11 @@
+# Global code owners
+* @moovendhan-v
+
+# Specific file protections
+*.yml @moovendhan-v
+*.yaml @moovendhan-v
+*.json @moovendhan-v
+Dockerfile* @moovendhan-v
+.github/ @moovendhan-v
+*.sh @moovendhan-v
+*.py @moovendhan-v
